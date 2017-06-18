@@ -1,0 +1,26 @@
+{
+  "name": "momo-loader",
+  "version": "0.0.1",
+  "description": ".momo to .wasm loader for webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ballercat/momo-loader.git"
+  },
+  "keywords": [
+    "wasm",
+    "c",
+    "loader",
+    "momo",
+    "web-assembly"
+  ],
+  "author": "Arthur Buldauskas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ballercat/momo-loader/issues"
+  },
+  "homepage": "https://github.com/ballercat/momo-loader#readme"
+}
